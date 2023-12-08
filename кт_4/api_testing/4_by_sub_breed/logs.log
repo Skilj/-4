@@ -1,0 +1,5 @@
+2023-11-17 16:13:30 [info     ] Send GET request:              request_url=https://dog.ceo/api/breed/hound/ddd/images
+2023-11-17 16:13:30 [info     ] Request headers:               request_headers={'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+2023-11-17 16:13:30 [info     ] With body:                     body=None
+2023-11-17 16:13:30 [info     ] Response status code:          status_code=404
+2023-11-17 16:13:30 [info     ] Response body:                 response_body={'status': 'error', 'message': 'Breed not found (sub breed does not exist)', 'code': 404}

@@ -1,0 +1,5 @@
+2023-11-17 15:59:35 [info     ] Send GET request:              request_url=https://dog.ceo/api/breeds/image/random/0
+2023-11-17 15:59:35 [info     ] Request headers:               request_headers={'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+2023-11-17 15:59:35 [info     ] With body:                     body=None
+2023-11-17 15:59:35 [info     ] Response status code:          status_code=200
+2023-11-17 15:59:35 [info     ] Response body:                 response_body={'message': ['https://images.dog.ceo/breeds/hound-ibizan/n02091244_596.jpg'], 'status': 'success'}

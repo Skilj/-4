@@ -1,0 +1,5 @@
+2023-11-17 15:45:19 [info     ] Send GET request:              request_url=https://dog.ceo/api/breed/1/images/random
+2023-11-17 15:45:19 [info     ] Request headers:               request_headers={'User-Agent': 'python-requests/2.31.0', 'Accept-Encoding': 'gzip, deflate', 'Accept': '*/*', 'Connection': 'keep-alive'}
+2023-11-17 15:45:19 [info     ] With body:                     body=None
+2023-11-17 15:45:19 [info     ] Response status code:          status_code=404
+2023-11-17 15:45:19 [info     ] Response body:                 response_body={'status': 'error', 'message': 'Breed not found (master breed does not exist)', 'code': 404}
